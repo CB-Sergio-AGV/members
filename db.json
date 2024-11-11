@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "personName": {
+        "firstName": "Michael",
+        "lastName": "Smith",
+        "fullName": "Michael Smith"
+      },
+      "email": {
+        "email": "michael.smith@example.com"
+      },
+      "address": {
+        "street": "456 Oak St",
+        "number": "2B",
+        "city": "Springfield",
+        "postalCode": "98765",
+        "country": "USA",
+        "streetAddress": "456 Oak St, 2B"
+      },
+      "role": "DEVELOPMENT_TEAM"
+    },
+    {
+      "id": 2,
+      "personName": {
+        "firstName": "Michael",
+        "lastName": "Smith",
+        "fullName": "Michael Smith"
+      },
+      "email": {
+        "email": "michael.smith999@example.com"
+      },
+      "address": {
+        "street": "456 Oak St",
+        "number": "2B",
+        "city": "Springfield",
+        "postalCode": "98765",
+        "country": "USA",
+        "streetAddress": "456 Oak St, 2B"
+      },
+      "role": "DEVELOPMENT_TEAM"
+    },
+    {
+      "id": 3,
+      "personName": {
+        "firstName": "<",
+        "lastName": "a",
+        "fullName": "< a"
+      },
+      "email": {
+        "email": "a"
+      },
+      "address": {
+        "street": "a",
+        "number": "a",
+        "city": "a",
+        "postalCode": "a",
+        "country": "a",
+        "streetAddress": "a, a"
+      },
+      "role": "a"
+    }
+  ]
+}
