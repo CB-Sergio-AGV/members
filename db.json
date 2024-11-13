@@ -3,36 +3,26 @@
     {
       "id": 1,
       "personName": {
-        "firstName": "Michael",
-        "lastName": "Smith",
         "fullName": "Michael Smith"
       },
       "email": {
         "email": "michael.smith@example.com"
       },
       "address": {
-        "street": "456 Oak St",
-        "city": "Springfield",
-        "country": "USA",
-        "streetAddress": " "
+        "streetAddress": "La Marina 102"
       },
       "role": "DEVELOPMENT_TEAM"
     },
     {
       "id": 2,
       "personName": {
-        "firstName": "Michael",
-        "lastName": "Smith",
         "fullName": "Michael Smith"
       },
       "email": {
         "email": "michael.smith999@example.com"
       },
       "address": {
-        "street": "456 Oak St",
-        "city": "Springfield",
-        "country": "USA",
-        "streetAddress": " "
+        "streetAddress": "Springfield  456 Oak St"
       },
       "role": "DEVELOPMENT_TEAM"
     }
